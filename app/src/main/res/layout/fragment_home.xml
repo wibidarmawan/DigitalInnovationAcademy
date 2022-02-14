@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.HomeFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/etJobName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Job Name"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/etImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Image"
+            app:layout_constraintTop_toBottomOf="@id/etJobName" />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:textColor="@color/white"
+            android:text="Add Data"
+            android:id="@+id/btnAddData"
+            app:layout_constraintTop_toBottomOf="@id/etImage"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/btnAddData"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</FrameLayout>

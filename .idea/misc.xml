@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/activity_halaman_dua.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/activity_home.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/item.xml" value="0.11967361740707162" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/row.xml" value="0.13467293715262932" />
+        <entry key="..\:/Users/digimaster/AndroidStudioProjects/ProjectDIA/app/src/main/res/menu/navigation_menu.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectDIA-3/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectDIA-3/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectDIA-3/app/src/main/res/layout/activity_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectDIA-3/app/src/main/res/layout/fragment_home.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectDIA-3/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
